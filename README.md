@@ -1,1 +1,5 @@
 # Client-Server-Development
+
+In writing programs that are maintainable, readable, and adaptable, it is essential for the code to be modular. For example, separating each part of CRUD in the Python Module for this project helps it be modular and easier to read/understand. Future uses of this CRUD module could be for extending its current functionalities and integrating it with other database programs.
+Approaching a problem as a Computer Scientist involves beginning with the a requirement analysis. Understanding what exactly the client needed was essential in ensuring that they recieved what they wanted. Next creating a system design to bring forward to the client helps us show the client what we plan to do and how we plan to execute it. After approval we begin implementing the functionalities that we designed, followed by testing and execution.
+Computer Scientists use development skills to solve complex problems. They design softwares and systems that improve efficiency and add or enhance functionality.
